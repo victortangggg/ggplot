@@ -5,7 +5,7 @@ IPython
 numpydoc
 # normal requirements
 numpy
-pandas
+pandas=0.23.0
 matplotlib
 scipy
 patsy
